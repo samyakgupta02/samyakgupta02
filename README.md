@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Nation Nexus**
 
-- 🌱 I’m currently learning **Data Structures , Frontend Web Development , C++ , Java, Python**
+- 🌱 I’m skilled in **Data Structures , Java, Python , Machine Learning, Artificial Intelligence **
 
 - 👨‍💻 All of my projects are available at [https://github.com/samyakgupta02](https://github.com/samyakgupta02)
 
